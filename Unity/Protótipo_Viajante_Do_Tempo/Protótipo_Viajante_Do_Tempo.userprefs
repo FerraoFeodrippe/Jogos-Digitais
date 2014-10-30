@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerConfig\Fire.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Respawn\Cubos.cs" Line="20" Column="4" />
+      <File FileName="Assets\Scripts\Respawn\Cubos.cs" Line="37" Column="1" />
+      <File FileName="Assets\Scripts\PlayerConfig\Fire.cs" Line="10" Column="60" />
+      <File FileName="Assets\Scripts\PlayerConfig\MouseLookAt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerConfig\PlayerController.cs" Line="24" Column="31" />
+      <File FileName="Assets\Scripts\Camera\GameCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Materials\ParticulaColor.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerConfig\ColisaoInimigo.cs" Line="12" Column="18" />
+      <File FileName="Assets\Scripts\PlayerConfig\MouseLookGun.cs" Line="16" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
